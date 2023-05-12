@@ -1,4 +1,4 @@
-# Case-Study: Marketing Campaign Analysis via Logistic Regression (Data Driven approaches in Business and Marketing)
+# Case-Study Title: Marketing Campaign Analysis via Logistic Regression (Data Driven approaches in Business and Marketing)
 # Data Analysis methodology: CRISP-DM
 # Dataset: Bundling strategy A/B testing data of an Iranian Telecom Company
 # Case Goal: Evaluation of a pricing strategy (bundling) in business (Deduction from data)
@@ -149,10 +149,3 @@ Chisq_prob3 <- 1 - pchisq(modelChi3, Chidf3)  # p-value
 Chisq_prob3
 
 #result: this model is better than base model
-
-
-
-
-
-
-
